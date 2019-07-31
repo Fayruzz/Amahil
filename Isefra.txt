@@ -9,7 +9,7 @@ Ad k-zuzneɣ nekk ḥulfaɣ.
 S lferḥ n wid imeggren. 
 Ṣṣaba-w d taḍṣa-k mi tt-sekdeɣ. 
 Lɣella-nsen d timẓin irden. 
-Ass-a s udem-ik mi sdekdeɣ. 
+Ass-a s udem-ik mi sekdeɣ. 
 Ttuɣ akk ayen ifuten. 
 A lmalayek tiɛzizin. 
 Awimt-iyi-d aẓarif. 
@@ -29,11 +29,11 @@ Ad yi-d-yekcem deg tewwurt.
 Ṣṣeḥa lehna ṛemḍan. 
 Ɣas afud-iw d amɣar ifut. 
 Ad iyi-d-yuɣal d ameẓyan. 
-A yemmz ɛzizen a yemma. 
+A yemma ɛzizen a yemma. 
 Wi am-yennan rebḥeɣ tura? 
 Ay ččiɣ deg yir amɛic. 
 Rrniɣ-d lɣerba n tmura. 
-Zy aḥnin sufeɣ-aɣ ɣer lber. 
+Ay aḥnin sufeɣ-aɣ ɣer lber. 
 Ur neqq tarwiḥt di lɣemma. 
 A yemma urgaɣ targit. 
 Ugadeɣ ad iyi-tuɣal d ṣṣeḥ. 
@@ -41,13 +41,13 @@ Lexdeɛ d win ɛzizen diri-t.
 Seg ufus iyi-ṛez lmeṣbeḥ. 
 Lferḥ-iw yid-s yewwi-t. 
 Ay mennaɣ ur d iyi-d-yettṣaḥ. 
-Berber, berber z naddam. 
+Berber, berber a naddam. 
 Memmi d amgud n remman. 
-Sd yeṭes ad t-yeɣder lemnam. 
+Ad yeṭes ad t-yeɣder lemnam. 
 Ttreɣ yal ṭṭelba. 
 Ad yegmu s tezmert yeqwan. 
-A yiḍes yezueunen. 
-Zuzen mmi ad yeṭes. 
+A yiḍes yezuzunen. 
+Zuzen mmi ad yeṭṭes. 
 Ur t-yettaɣ ar t-ibellu. 
 Ala lxir deg wul-ines. 
 Imeṭṭawen-nni ara iru. 
@@ -69,7 +69,7 @@ Tufamt-t-id iṣeḥḥa.
 Atan deg yireban-nkemt. 
 A lmalayek d-iɛussen. 
 Susmemt llufan yettru. 
-Awimt-ad-d tanafa. 
+Awimt-d tanafa. 
 Si lḥiḍ n lkeɛba m-leṛqum. 
 Zwimt-t-id i llufan. 
 Ad yeggan ad yettrebbi aksum.
@@ -119,8 +119,8 @@ D kečč i d tamda n lesrar.
 Ay aɛessas n uxxam. 
 A wlidi kečč d baba. 
 Ttiɣ-ak d tifilellest. 
-Dduriɣ-zk talaba. 
-Ḍelbeɣ-kin ddeɛwa n lxir. 
+Dduriɣ-ak talaba. 
+Ḍelbeɣ-k-in ddeɛwa n lxir. 
 Kfu fell-i uzzu n tasa. 
 Mmi ad yidir yili. 
 Si dduḥ-is ad d-yettaḍṣa. 
@@ -150,6 +150,445 @@ A sidi ɛjel-d s lxir.
 Teldiḍ tawwurt ma tsekker. 
 Taɣṛast yellan d lxali. 
 S ufus-ik a Nnbi ad teɛmer. 
+A yemma a wi iruḥen. 
+Anda mlalen yiɣeẓṛan. 
+Ɣer din mi yewweḍ ad iru. 
+Ula anwa deg-s ittceffan. 
+Yid-i lewḥuc i la ttrun. 
+Terna tseṭṭa s isegman. 
+Ɣer lebḥer iger iman-is. 
+Ɣer din mi yewweḍ ad iru. 
+Ula anda d-iban late-is. 
+A yemma lebḥer yeḥcer. 
+Asif iɛuned iman-is. 
+S axxam n baba-s yili. 
+Ad iẓer yemma-s taɛzizt. 
+Ad as-yeḥku lemḥani. 
+Ma yella ula yečča. 
+Yella qeḍran d yilili. 
+Tthuzzuɣ-k ul-iw yefreḥ. 
+A mmi a lwens n wul-iw. 
+D kečč i d ddwa n lqerḥ. 
+D kečč i d lwel-iw. 
+Fell-ak tacḍat n ṣṣellaḥ. 
+Yes-k yeɛmer uxxam-iw. 
+Ay afus yecban tiwzet. 
+Sberber i lwens-inu. 
+Ad yeṭṭes ad yettfukti. 
+Yettiɣzif ad irennu. 
+Yager merra tizyiwin. 
+Adrum ɣer tama-s yeddu. 
+A sidi Ṛebbi. 
+A win wer terbi yemma-s. 
+Ibnan tamurt d iɣallen. 
+Yeṭṭef igenni bla isulas. 
+D tacḍaṭ-ik ay nettraǧu. 
+A win iferzen iḍ ɣef wass. 
+Ḥrez-iyi mmi ad yegmu. 
+Tesbeɛdeḍ lebla fell-as. 
+A Ccix aɛrab a lewli. 
+A win i wumi temzel tfunast. 
+D ṭṭman gren-tt tuli. 
+Yeṭṭefen deg uglim tekker. 
+Yeḥya-tt Llah mulani. 
+Ttreɣ-k ili-yi d amɛiwen. 
+Sifer tifidi ɣef mmi. 
+S yisem-ik a Sidnz Nuḥ. 
+I d-greɣ mmi ɣer dduḥ. 
+Ttxil-k ḥareb-as ɣef ṛṛuḥ. 
+S irebbi-k a sidns naddam. 
+Ad n-yers mmi d llufan.
+Ttxil-k wenneɛ-as lemnam. 
+Ssuh, ssuh ssuhya. 
+S uksum teggeḍ lkimya. 
+Tecbiḍ izimer imenza. 
+Mi d-tkecmeḍ deg yimi n tewwurt. 
+Nnecraḥeɣ s teḍṣa. 
+Inebgawen mi d-usan. 
+Ɣef memmi ay d-seqqsan. 
+Iferreq udi s ṭṭisan. 
+A Ṛebbi seɣzef-as ussan. 
+Ad as-ner lxir d ameqqran.
+Ad fell-as xedmen waklan. 
+S tɣalin akk d yileɣmqn. 
+Ttehu, ttehu. 
+Memmi ad ak-telhu. 
+Am tziri n unebdu. 
+Neɣ iṭij mi i d-iteddu. 
+Sidi Ḥmed U Lqaḍi. 
+I d-yewwin sebɛa nzali. 
+Igga-asen rebg am ulli. 
+Akken i cubaɣ mmi. 
+Cteddu, cteddu lemni. 
+Ad rebbiɣ ayazi n tili. 
+Ad yimɣur ad yennerni. 
+S lfeḍl-ik a Sidi Ṛebbi. 
+Lakk d lmuluka d Nbi.
+Cteddu ad timɣureḍ. 
+Sd taɣeḍ afud tuzureḍ. 
+Ad tifeḍ kra d-tluleḍ. 
+Ad ttennerniḍ ad ten-tagareḍ. 
+Zd akk ten-tekkateḍ. 
+Ɣer lebɣi-k ad ten-tarzeḍ.
+Cteddu, cteddu leqmer. 
+Ad ṛebbiɣ uzyin n nnḍer. 
+Ad yali d uzniq iḍer. 
+Yecqa-yi ccɣel ma yexṣer. 
+Jelleb tijellibin. 
+Ad d-tṣebḥeḍ di tebḥirin. 
+Ad d-tawiḍ tifeqlujin. 
+I yemma-k ad d-tegg abazin. 
+Ad tesweḍ tikeffayin. 
+Ad tṛebbiḍ tikesmatin. 
+Ṣṣeḥa di teɛḍamin. 
+Ay agellid ay aḥnin. 
+S lefḍel n bu tezmirin. 
+Ttuh, ttuh i lemni. 
+Mmi d ayazi n tili. 
+I iṛebba lqayed di leɛli. 
+Ḍelbeɣ di Ṛebbi. 
+Mmi ad yeǧǧuǧǧug ad yettnerni. 
+Ferḥ-iw s mmi yettneggiz. 
+Gar tizya-s d ddehb d ubriz. 
+Bab n ukembas d ttemyiz. 
+Yifen ameqqran n at Baɛziz. 
+A lferḥ i ferḥeɣ. 
+D lferḥ n lebda. 
+Mi tufrar tagut. 
+I tneṭweḍ anda? 
+I teɛmer temdint. 
+Terna Leblida. 
+Ɣer ɣur-i mmi. 
+Am tjeɛbubt n lfeṭṭa. 
+Mmi d itri deg yigenni. 
+Neɣ d tiẓurin n lɛedni. 
+Ass mi d-tlukeḍ a mmi. 
+Aɛdaw ur igi imendi. 
+Yefreḥ win i k-id-yefkan. 
+Rniɣ ula d nekkini. 
+A lxir-iw lxir-inu. 
+Mmi deg yirebbi-inu. 
+Eǧǧ-iyi-t a baba-inu. 
+Yis-s yezhu wul-inu. 
+Ad yeɛmer uxxam-inu. 
+Tinerniyin d tinerni. 
+Tifeḍ itri deg yigenni. 
+Neɣ iṭij ma d-yiṭṭili. 
+Timɣureḍ txedmeḍ fell-i. 
+A lferḥ-iw ass-s nuklal. 
+Mmi d izem aheddal. 
+Yettcali yettemhewwal. 
+Iḥun fell-ak bu lefḍal. 
+Ay axelxal uḍbiɛ n rryal. 
+Ḥerz-ik a mmi s lebda. 
+Kečč d imɣi-w n ṣṣaba. 
+Yettfuktin yif tiɣezza. 
+Yal lxir yid-k yella. 
+Seg ččan yimawlan xilla. 
+Rnan lexwal d yiderma. 
+A lalla a lalla. 
+A mm wudem ireqqen. 
+Ass mi d-tlukeḍ. 
+Lehl-im akk xiqen. 
+Ggulen di yemma-m. 
+Ur d as-d-nfiqen. 
+Tura mi tmeqqreḍ. 
+Cerḍen idrimen d wurawen. 
+A lxir-iw yuli-d lefjer. 
+A rrbeḥ tennuleḍ a yemma-s. 
+A tafat n ṣbeḥ mi d-teḍher. 
+Fell-i tura yuli wass. 
+Ayyur drg yigenni yecher. 
+Itran fell-as d ameqyas. 
+Akken i cebbaɣ yelli. 
+Mi ara d-tban gar watma-s. 
+Ttuha, ttuha s yelli. 
+A leḥrir afilali. 
+D-iddan s leswam ɣali. 
+Si temdinin d ssḥari. 
+Nniɣ-am kemm a yelli. 
+Sɛiɣ-kem d ṛas mal-i.
+Ssuh, ssuh ssuhyan. 
+A yelli a tin yelhan. 
+Ad tt-nefk s Agni Ggeɣran. 
+S axxam n Sɛid At Ɛemran. 
+Ad tettcebbiḥ ad tettarra izebgan. 
+Fell-as ad xeddmen waklan. 
+S nnɛami ččuren ikufan. 
+A lxir-iw lxir yemlan.
+Ssuh, ssuh ssehyani. 
+Ur zk-ɛniɣ lbali. 
+A lfacnaq n ufilali. 
+I d-yewwi uɛemṛani. 
+Ad t-yels mmi ad yettnerni. 
+S lfeḍl-ik a mulani. 
+I wer nenni amin. 
+A wer yaf ayen yettmenni. 
+Attan, attan s igrnwan. 
+Yelli d ccac yeclawan. 
+Neɣ cmuɛ n yiṭij yeḍwan. 
+Lferḥ-inu d ameqqran. 
+A Ṛebbi seggem-as ussan.
+S uxxam lakk d ṣṣebyan. 
+Zklan i lecɣal heggan. 
+S nnɛami ččuren ikufan. 
+Lalla ya lalla. 
+Tasekkurt n ṣbeḥ. 
+Iseɣ-im inuda. 
+Awal-im melleḥ. 
+Ad kem-iṣer Ṛebbi. 
+Fell-am ay nerbeḥ. 
+Mmi cteddu imɣur. 
+Tuzureḍ s wudem yettnur. 
+Ad d-tecbuḍ win yellan d aḥrur. 
+Aggus-ik lebda yeččur. 
+Awal-ik d ccfa yettḍur. 
+Di tejmaɛt tezgiḍ meqdur. 
+Ṭṭir ma yecbeḥ yijjiq. 
+Bu timmi n udrar. 
+S lɛejlan i d-yeṭelliq. 
+Mi yesraḥ aɛdaw. 
+Ad as-yettemḥezwar s amḍiq. 
+A-ta-yen ay iɛssasen. 
+A-ta-yen a Jebrayen. 
+Ṭṭef-as afus d asawen. 
+Ad yif dderya n medden. 
+D lebɣi-s ara ixeddem. 
+A-ta-n ay igenni. 
+Mmi ass-a yettnerni. 
+Ɛennaɣ-k a sidi Ṛebbi. 
+Ay ajebbar a lewli. 
+Ay awḥid wayeḍ ur yelli. 
+Mel-d i yelhan i mmi. 
+Abrid n lɛezz ad t-yawi. 
+
+Ɣur-k kan ay nettɛenni. 
+Ttuha ɣef i uɛḍimen. 
+Lfeṭṭa ittzemzimen. 
+Ddheb ɣef iqessimen. 
+Yif-iten mmi ɛzizen. 
+I as-buddeɣ d iqcicen. 
+Deg yirebbi ad sleɣmucen. 
+D tislatin iḥerzen. 
+Lmut ɣef mmi xicen. 
+Ad yedder yemmet wuccen. 
+Ttuh ttuheya. 
+Ay imɣi n ṣṣaba. 
+Di tferkiwin d tɣezza. 
+Imɣur tecbuḍ lkibiya. 
+Baba-k d ayrad n lexla. 
+Yemma-k tecba tasedda. 
+Seg-sen ay d-ggiḍ tara. 
+Lferḥ-iw yugar lefraḥ. 
+Yuli wass teḍher tafat. 
+Ɣur-i ssbeɛ bu lkifat. 
+Ad yidir ur yettmettat. 
+Ɣas zewǧet, yuɣ snat. 
+Sd as-d-zgint d lmuḥsinat. 
+S dderya yeṭṭef lmeknat. 
+Yecba izem bu lhibat. 
+Ferḥ-iw a ferḥ-iw. 
+Saɛd-iw a saɛd-iw. 
+A yelli yelli. 
+Baba-m yettgalla. 
+Ur fkiɣ yelli. 
+Alama qebḍeɣ meyya. 
+Ad as-d-rnuɣ taklit. 
+Ad d-teddu seg wat Mlawa. 
+Ad as-teṭṭef deg leggam. 
+Ad as-tini: Rkeb a Lalla. 
+A-ta-yen ay igenni. 
+A Ṛebbi ḥareb ɣef mmi. 
+Ssis-as-d i yettmenni. 
+Err-as-d tacḍaṭ n Nbi. 
+D lmuluk ɣef yiwen n yimi. 
+Sseɛd-inu mmi meqqer. 
+Yeddem talwiḥt ad iɣer. 
+Di lǧemeɛ sd idker. 
+Ad yecbu Sidna Ɛumer. 
+Huru, huru. 
+Akken xeddmen yetbiren. 
+Mi ara alin s akantu. 
+Shurun, srebruben. 
+Mmi d tamuɣli n ufalku. 
+Ur yelli d anwa t-yifen. 
+Ttuha a yidni. 
+A tteffaḥ aɛedni. 
+A taḥanut n uḥeḍri. 
+Deg-s lluz, deg-s lḥenni. 
+Deg-s usu, deg-s taduli. 
+Win ur nenni amin. 
+Awer yaf i yettmenni. 
+Ttuha, amen yeddu. 
+Ad nali ɣer uɣeddu. 
+Ad naf tamɣart tessendu. 
+Ad aɣ-d-tefk ibawen n waklu. 
+Ad yečč mmi ad yegmu. 
+Ur t-yettaɣ ubukkaḍu. 
+A-ta-yen, a-ta-yen. 
+Ay imeksawen. 
+Ma twalam uccen. 
+Yewwi-d tizimert taksast. 
+Yuzzel mmi yekkes-as-tt. 
+Mmi ileqqeḍ ikesman. 
+Uccen ijemmeɛ iɣessan. 
+S lfeḍl-ik a bab n leḥsan. 
+A-ta-yen a-ta-yen. 
+Lxir-iw, lxir-ines. 
+A leḥrir ɣef yibernas. 
+Eǧǧ-as aɛziz i yemma-s. 
+Ad yimɣur yexdem fell-as. 
+S tugma akk d uxemmas. 
+Ad d-yessis lerbayeḥ aṭas. 
+Ṛqeṣ timeṛqaṣin. 
+Ad teččeḍ timerkucin. 
+Ad ternuḍ tidemriwin. 
+Uccen ad yečč tizermatin. 
+Taguni deg tɣeẓṛztin. 
+Mmi ad yeṭṭes deg tɣurfatin. 
+Lmakka-s d timellalin. 
+Tidsit-is deg tbuḍcin. 
+Geclaya, geclaya. 
+Yemma-s truḥ ɣer tala. 
+Ad as-d-tawi blabla. 
+Ur tettak i ḥed ala. 
+Siwa i kečč a mmi n tasa. 
+Yelli a ṛqem n lfeṭṭa. 
+Cci di leswaq ṛxis. 
+Ay aɣanim n uẓeṭṭa. 
+Ur nekkat ur nettwaqis. 
+Yelli d win ay tecba. 
+Ferḥ-as a tazeqqa yes-s. 
+Lferḥ-inu a medden.
+Yelli d lwens n yifadden. 
+Ur tt-nekkat ur tt-nreggem. 
+Taklit ad as-d-tettagem. 
+Akli fell-as ad yexdem. 
+Yelli ad tebded tenjem. 
+I yinexḍaben i d-yettasen. 
+A tassemt a tafesda. 
+Necdeɣ-kem iyya ɣer da. 
+Ɣer tugat n uqcic-a. 
+Ad yuzur ad yegluda. 
+Ad yecbu mmi-s n tsedda. 
+Ad yuf akk talida. 
+N yulindi d useggas-a. 
+Ad yernu ɛad zyada. 
+Lferḥ-iw yugar lferḥat. 
+Yelli ɣef-s teḍher tafat. 
+Mmi d ssbeɛ bu lkeffat. 
+Ileḥḥun i tegrest tekkat. 
+Isneḥniḥ deg lweḍyat. 
+Yečča izem, aglim yessa-t. 
+Tim-iyi-t a baba Ṛebbi. 
+Sufeɣ-iyi leɛtab ɣer tafat. 
+Acewwiq. 
+Smelleh ad nebdu aẓeṭṭa. 
+S ṛṛqem ara d-yefkali. 
+Selhumt-t a lmuluka. 
+Tamtilt-is werǧin telli. 
+D win ara d-yawin lehna. 
+I yiɛeggalen i kkeli. 
+Greɣ aẓeṭṭa weḥdi. 
+D ameqqran bezzaf iḍul. 
+Lhem deg yuxef-iw yefti. 
+Medden merra yezha wul. 
+Ttxil-k a Sidi Ṛebbi. 
+Ɛiwen-iyi ad t-xedmeɣ s lmul. 
+Aql-i deg uxxam weḥdi. 
+Ala nekk d yifeggagen. 
+Lǧzr-inu d ayaẓiḍ. 
+Kul yum fell-i yettedden. 
+Ṣṣura i icebḥen texṣer. 
+Tezzegzew seg yimeṭṭawen. 
+Ndu, ndu ay iɣi. 
+Efk-d tawarect n wudi. 
+Akken i tt-nettmenni. 
+Taxsayt-iw duḥ duḥ. 
+Ad d-tḍil tziri ad truḥ. 
+Ad d-tawi udi ur icuḥ. 
+S lfeḍl n Nnbi amerbuḥ. 
+Bab n twizi ad d-yini. 
+Ay iwiziwen. 
+Ay at ccemla. 
+Kemmelt-aɣ tirni. 
+Akka d acemma. 
+Iwiziwen si tama-nsen ad as-d-rren. 
+A bab n twizi. 
+Leḥrir n cceḍba. 
+Ad d-tesɛuḍ aqcic. 
+Semmi-as Masinisa. 
+Teggeḍ-aɣ acebbaḍ. 
+S wudi yeṣfa. 
+A bab n twizi. 
+Ay aɛǧar n ccac. 
+Ad nexdem ɣer leɛca. 
+Ad nruḥ ɣer warrac. 
+A bab n twizi. 
+A bu yigecraren. 
+Ad nexdem ɣer leɛca. 
+Seksu s yeḥricen. 
+A bab n twizi. 
+A lebsa n uqendur. 
+Ad k-nernu tirni. 
+Akka alamms d ṭṭhur. 
+A bab n yiger. 
+A leɛǧer n ccac. 
+Lqil nqeyyel. 
+Zlu-aɣ aqelwac. 
+A bab n yiger. 
+A bu kexṣayel. 
+Lqil nqeyyel. 
+I d-yegran yeshel. 
+Heggi-aɣ icriḥen. 
+Ad as-zluɣ aḥuli. 
+Arraw n tsekkurt. 
+Wwtet s umextaf. 
+Ḥadret tazemmurt. 
+tiwizi-inu ma tuli. 
+Arraw n tsedda. 
+Ḥadret taseṭṭa. 
+Tiwizi-inu ma tezger. 
+Ay imelqaḍen. 
+Ṛebbi ad ken-iɛiwen. 
+Rrnut-aɣ ccḍuḍ. 
+Ur wwiḍen yifassen. 
+A wi iweḥdrn Ṛebbi. 
+Iweḥd-it deg yifellaḥen
+Kul aɛerqub yettneqqil. 
+Ɣer unnar ad srewten. 
+Kul tikli itubeɛ-itt lkil. 
+Ala Ṛebbi i d-yeqqimen. 
+Ahamt, ahamt. 
+Azemmur d aseṛṛaǧi. 
+Iḍudan d leqɛadi. 
+Tameddit ula i nawi. 
+Lukan ixeddmeɣ taḍuṭ. 
+Tili ad f-iban fell-i. 
+Ur yelli ad d-heyyiɣ taɛlawt. 
+Iḥebraruc ad yali. 
+Ccɣel-iw d ileqfen. 
+Ad ten-tciriɣ s yigenni. 
+Tadukli d yimeksawen. 
+D ubeḥri-nni ḥlawen. 
+S yisefra nemger tirni. 
+Tacemlit n yiwiziwen. 
+S yicewwiqen-nni ifazen. 
+Lhem deg-neɣ yettnerni. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

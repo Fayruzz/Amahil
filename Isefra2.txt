@@ -151,7 +151,7 @@ Wwiɣ-d aqenṭar n smid, zliɣ ikerri.
 Wwiɣ-d tasedda n rrxul, i yizem aweḥci. 
 A lxir-iw a mmi a lxir-iw, zewǧeɣ-as i waras. 
 Wwiɣ-d aqenṭar n smid, zliɣ aqelwac. 
-Wwiɣ-f tasedda n rrxul, i yizem aɣilas. 
+Wwiɣ-d tasedda n rrxul, i yizem aɣilas. 
 Ad d-rreɣ lesdud, ad sirdeɣ iseqfan. 
 Ad kkseɣ leḥzen, i yella si zzman. 
 Wali-k lḥemd a Ṛebbi, leǧnan yewwet s iẓuran. 
@@ -197,7 +197,7 @@ A ṣṣifa n wayyur, mi zzin yetran.
 Tewwiḍ-d mm umzur, ad ak-tcebbeḥ axxam. 
 A kra yellan da, yers-d uḍebsi n lḥenni. 
 Bu rebɛa n tɣemmar, terna-d nneɛma. 
-D ccetla n yẓaɣaṛ, rnant-d tmellalin. 
+D ccetla n uẓaɣaṛ, rnant-d tmellalin. 
 I d-yurew ṭṭir lḥeṛ, terna-d lfeṭṭa. 
 Yeṛqem uḥeddad lexyar, ad cekkreɣ isli ayyur mi zzin yetran. 
 Ad cekkreɣ baba-s, ṣfawa n waman. 
@@ -242,23 +242,30 @@ D lebda deg-i txenneq, terna tekkes-iyi aɛziz n tasa.
 Wissen ma ad ddreɣ ad iyi-inin, tislit-im tewweḍ aẓekka. 
 Ccah ccah a tamɣart, mmi-m yefka-yi taryalt. 
 Ma iɣḍel-ikem uruḥani, ruḥ ad tenḍeḍ tamellalt. 
-Ɣas azen-d ṣṣber i wul-im, mmi-m tewwi-t tḍeggalt. 
-Attaya ters-d yiwet, s umendil bu yecrure. 
-Slilwemt a tulawin, d yelli-s n yiɛezzuzen. 
-Ṛebbi snerni di sser-is, ad ttaf ul i tt-iḥemmlen. 
-Attaya ters-d yiwet, s tqendurt mm tjegwa. 
-Slilwemt a tilawin, d yelli-s n At Mlawa. 
-Ṛebbi snerni di sser-is, ad taf win mu tehwa. 
-Attaya ters-d yiwet, la tceṭṭeḥ s teḍṣa, slilwemt a tulawin d yelli-s n At Yeɛla. 
-Ṛebbi snerni di sser-is, ad ttaf ul n leḥmala. 
-Attaya ters-d yiwet, s tqendurt akk d lfuḍa. 
-Slilwemt a tulawin, d tasekkurt yeksan luḍa. 
-Ṛebbi snerni di sser-is, teddu s ṭbel d lɣiḍa. 
-Lbacir waɛli iṣeṭel tamart, yuɣal d llufan. 
-Ixṭṭu luḍa, iḥemmel lkifan.
-Ɛli Usliman ay adaɛmamac, aɣyul aciban. 
-Ɣef ileɛben warrac, iḥemmel agertil, yettawi lefrac. 
-I d-iḥmel wassif, yewwi-d idɣaɣen. 
+Ɣas azen-d ṣṣber i wul-im, mmi-m tewwi-t tḍeggalt.
+A tinn-a n ugemmaḍ, tuɛwijt n yiḍarren. 
+Ma d lalla-m tewqem, tecbeḥ s yebzimen. 
+Ad as-d-terr tis snat. 
+I d-iḥmel wassif, yewwi-d ariḥan. 
+A tinn-a n ugemmaḍ, ay udem n uḍiḥan. 
+Nekk d taɛebbajt n yifassen, yeɣran di lelwan. 
+I d-iḥmel wasif, ur d-yewwi ara. 
+A tinn-a n ugemmaḍ, ur telhiḍ ara. 
+Lalla-m d tasedda, yehban s ṣṣifa. 
+Ad as-d-terr texṣimt. 
+I d-iḥmel wasif, i d-yewwi d lelwaḥ. 
+A tinn-a n ugemmaḍ, lalla-m d mm uxelxal n ddeḥ. 
+Mi d-tefli gar tizya, tecba tiziri n ṣṣbeḥ. 
+Ayen a syadi lɛulam, tawim abrid mi t-tessnem. 
+Tanfem-aɣ i nekkni deg nniya, ad yegg Sidi ad yesteḥsen. 
+D netta i yebnan lecqaf, ayen ixzen deg-sen yessen. 
+A yemma Xliǧa n Uẓru, berka asenduder n wallen. 
+Nekkni mebɛid i d-nusa, ay nella d igawawen. 
+Ɣas ḥseb-aɣ seg warraw-im, zlu yiwen seg wakniwen. 
+A Ṛebbi efk-d ameččim, deg yigenni ad yegg iɛlawen. 
+Ad tergel tizi tamcumt, yekkan gar-i d yigawawen. 
+Tamusni-nsen d aɣilif, lemḥiba-nsen d asawen. 
+Ma tewwim-d azal n sin, kkret ad tezlum yiwen. 
 
 
 
@@ -266,25 +273,6 @@ I d-iḥmel wassif, yewwi-d idɣaɣen.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-T
 
 
 
